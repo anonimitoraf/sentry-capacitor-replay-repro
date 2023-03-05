@@ -1,0 +1,8 @@
+.btn {
+  height: 75px;
+  text-align: left;
+}
+
+.btn::part(native) {
+  background: red;
+}
